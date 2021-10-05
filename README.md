@@ -44,8 +44,8 @@ React Hooks allows to break down the logic. Allows to reuse the component, and b
 
 ## Home Page.
 
-![](/word-count/src/assets/word-count-homepg.png)
+![](/src/assets/word-count-homepg.png)
 
 ## Displaying results.
 
-![](/word-count/src/assets/sampleTxt.png)
+![](/src/assets/sampleTxt.png)
