@@ -1,0 +1,18 @@
+.textLabel {
+  padding: 40px;
+  color: $labelTextBox;
+}
+
+.texBoxSize {
+  height: 40vh;
+  display: flex;
+  align-items: baseline;
+  margin-bottom: 20px;
+  @include flex-center-hor-col;
+}
+
+.submitButton {
+  padding: 10px;
+  background-color: $buttonSubmit;
+  border-color: black;
+}
